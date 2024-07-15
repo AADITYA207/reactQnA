@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AADITYA207/reactQnA.git/static/css/main.6810d0f2.css",
+    "main.js": "/AADITYA207/reactQnA.git/static/js/main.b036ecff.js",
+    "static/js/453.b4b6be12.chunk.js": "/AADITYA207/reactQnA.git/static/js/453.b4b6be12.chunk.js",
+    "static/media/space-background-with-stardust-shining-stars-realistic-colorful-cosmos-with-nebula-milky-way.jpg": "/AADITYA207/reactQnA.git/static/media/space-background-with-stardust-shining-stars-realistic-colorful-cosmos-with-nebula-milky-way.f2a76785fed48f49832d.jpg",
+    "index.html": "/AADITYA207/reactQnA.git/index.html",
+    "main.6810d0f2.css.map": "/AADITYA207/reactQnA.git/static/css/main.6810d0f2.css.map",
+    "main.b036ecff.js.map": "/AADITYA207/reactQnA.git/static/js/main.b036ecff.js.map",
+    "453.b4b6be12.chunk.js.map": "/AADITYA207/reactQnA.git/static/js/453.b4b6be12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6810d0f2.css",
+    "static/js/main.b036ecff.js"
+  ]
+}
