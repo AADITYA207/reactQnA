@@ -1,0 +1,82 @@
+body {
+  font-family: Arial, sans-serif;
+  background: url('C:/Users/Aaditya Gupta/Desktop/qna/src/space-background-with-stardust-shining-stars-realistic-colorful-cosmos-with-nebula-milky-way.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: left;
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: rgba(60, 60, 60, 0.8); /* Add transparency */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  color: #ffcc00;
+  margin-bottom: 20px;
+}
+
+h3 {
+  margin: 15px 0;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.question {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin: 5px 0;
+}
+
+select {
+  margin-top: 5px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #ffcc00;
+  color: #2c2c2c;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #e6b800;
+}
+
+button:disabled {
+  background-color: #999999;
+  cursor: not-allowed;
+}
+
+.result {
+  margin-top: 20px;
+}
+
+.result p {
+  margin: 10px 0;
+}
+
+.error {
+  color: #ff4d4d;
+  font-size: 0.875em;
+  margin-top: 5px;
+}
